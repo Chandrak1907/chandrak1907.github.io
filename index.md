@@ -9,7 +9,7 @@ Prior to Oracle, I was a Lead Data Scientist at CVS-Aetna. I led multiple data s
 
 * “Using machine learning to identify effective health care guidelines for diabetics”, Academy health’s Annual Research Meeting 2021
 
-I have masters degrees from University of San Francisco (in Analytics/Data Science) and Indian Institute of Technology (IIT) Bombay (in Industrial Engineering & Operations Research)
+I have master's degrees from University of San Francisco (in Analytics/Data Science) and Indian Institute of Technology (IIT) Bombay (in Industrial Engineering & Operations Research)
 
 
 ### Service
