@@ -8,7 +8,7 @@
 
 title:
 #description: This is where the description of your site will go. You should change it by editing the _config.yml file. It can be as long as you like! Happy blogging... ❤
-#github_username: chandrak1907
+github_username: chandrak1907
 
 # Email and twitter are optional:
 email:chandrak1907 at gmail
@@ -21,17 +21,21 @@ use_math:true
 google_analytics:
 
 # Everything below here can be ignored, unless you want to change the theme entirely
-theme: minima
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-  - jekyll-feed
-  - jekyll-gist
-  - jekyll-octicons
-  - jekyll-github-metadata
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 
-titles_from_headings:
-  enabled:     true
-  strip_title: true
-  collections: true
+# theme: minima
+# plugins:
+#   - jekyll-feed
+#   - jekyll-gist
+#   - jekyll-octicons
+#   - jekyll-github-metadata
+
+# titles_from_headings:
+#   enabled:     true
+#   strip_title: true
+#   collections: true
 
 highlighter: rouge
 markdown: kramdown
