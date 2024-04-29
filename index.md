@@ -5,10 +5,11 @@ I am a Master Principal Architect (AI)/Data Scientist at Oracle's Cloud Engineer
 
 Prior to Oracle, I was a Lead Data Scientist at CVS-Aetna. I led multiple data science projects focused on improving health outcomes of Aetna members. Causal Inference techniques (such as Double Machine Learning), Natural Language Processing (NLP) and Deep Learning were used for delivering these projects. Some of my work was accepted for poster presentation at the Academy of health's Annual Research Meeting (ARM).
 
-	•	 “An Information Gain Modeling Approach to Prioritizing Medicare Enrollees for in Home Assessment Visits”, Academy health’s Annual Research Meeting 2020
-	•	“Using machine learning to identify effective health care guidelines for diabetics”, Academy health’s Annual Research Meeting 2021
+* “An Information Gain Modeling Approach to Prioritizing Medicare Enrollees for in Home Assessment Visits”, Academy health’s Annual Research Meeting 2020
 
-I have masters degrees from University of San Francisco (in Analytics/Data Science) and Indian Institute of Technology (IIT) Bombay (Industrial Engineering & Operations Research)
+* “Using machine learning to identify effective health care guidelines for diabetics”, Academy health’s Annual Research Meeting 2021
+
+I have masters degrees from University of San Francisco (in Analytics/Data Science) and Indian Institute of Technology (IIT) Bombay (in Industrial Engineering & Operations Research)
 
 
 ### Service
