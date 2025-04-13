@@ -15,4 +15,6 @@ I have Master's degrees from University of San Francisco (in Analytics/Data Scie
 ### Service
 
 * Member of Technical Program Committee - 2nd International Workshop on AI Governance (AIGOV) held in conjunction with AAAI 2025
+* Reviewer - International Joint Conference on Neural Networks (IJCNN-2025)
 * Secondary reviewer for Association for Computational Linguistics (ACL-2020)
+* AI Book reviewer at Manning and Packt publishing
